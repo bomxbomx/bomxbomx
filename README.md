@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/thant-thant-sin-han-73182423a">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
-    <a href="#"><img src="https://bomxbomx.github.io/" alt="Profile Views"></a>
+    <a href="#"><img src="https://komarev.com/ghpvc/?username=bomxbomx&style=for-the-badge&color=red" alt="Profile Views"></a>
 </div>
 - 🌱 I’m currently learning react.
 - 🔭 I’m currently working at Ayeyarwaddy Farmers Development Bank as IT Support.
